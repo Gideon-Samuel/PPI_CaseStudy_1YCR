@@ -62,8 +62,8 @@ This study computationally analyzes the interface residues between p53 and MDM2,
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/PPI-hotspot-analysis.git
-cd PPI-hotspot-analysis
+git clone https://github.com/YOUR_USERNAME/PPI_CaseStudy_1YCR.git
+cd PPI_CaseStudy_1YCR
 ```
 
 2. **Installation Dependencies**
