@@ -46,14 +46,10 @@ This study computationally analyzes the interface residues between p53 and MDM2,
   - Chain B (p53): [example residues]
 
 - **Top Residues by Degree (Hubs)**
-  - [List top 5 hubs before mutation]
+  - [List top hubs before mutation]
 
 - **Top Residues by Betweenness (Bottlenecks)**
-  - [List top 5 bottlenecks before mutation]
-
-- **Mutation Impact**
-  - Removal of B23 reduces connectivity
-  - Shift in hub and bottleneck residues observed
+  - [List top bottlenecks before mutation]
 
 - **Outputs**
   - `outputs/1YCR_PPI_nodes.csv`
